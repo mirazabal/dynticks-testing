@@ -1,3 +1,6 @@
+### Copy from git://git.kernel.org/pub/scm/linux/kernel/git/frederic/dynticks-testing.git
+
+
 Make sure CPU 1 is full dynticks (it must be in the "nohz_full=" boot parameter
 cpu mask).
 
